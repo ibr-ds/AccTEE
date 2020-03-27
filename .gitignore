@@ -1,0 +1,12 @@
+*/*.wasm
+*/*.wat
+*/*.o
+*/*.no
+*/*.wast
+*/*.a
+*/*.so
+*/*.qo
+*/*.bc
+*/*.asm.js
+middleware/node_modules
+

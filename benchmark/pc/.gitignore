@@ -1,0 +1,8 @@
+bin/pc
+bin/pc.exe
+output/output.txt
+output/output2.txt
+
+*.o
+*.d
+*.bak

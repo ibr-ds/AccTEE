@@ -1,0 +1,14 @@
+5
+cfg/imagenet1k.data
+cfg/darknet.cfg
+weights/darknet.weights
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
+data/dog.jpg
