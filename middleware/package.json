@@ -5,7 +5,7 @@
   "main": "init1.js",
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "node-forge": "^0.7.6",
+    "node-forge": "^0.10.0",
     "text-encoding": "^0.6.4",
     "underscore": "^1.9.1",
     "utf-8-validate": "^3.0.3",
